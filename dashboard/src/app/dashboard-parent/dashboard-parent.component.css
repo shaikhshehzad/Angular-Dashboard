@@ -1,0 +1,98 @@
+.parent{
+    /* border: 1px solid black; */
+    background: pink;;
+    height: 100vh;
+    padding-top: 20px;
+    padding-left: 20px;
+
+}
+
+.flex{
+    display: flex;
+}
+.div1{
+    /* border: 1px solid black; */
+    width: 20%;
+    height: 90vh;
+    background-color: antiquewhite;
+    border-radius: 10%;
+}
+.div2{
+    /* border: 1px solid black; */
+    width: 60%;
+    height: 100vh;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.div3{
+    /* border: 1px solid black; */
+    width: 20%;
+    height: 95vh;
+}
+.border-class{
+    border: 1px solid black;
+}
+li{
+    list-style: none;
+}
+
+.left-panel-image{
+
+    padding: 5px;
+    width: 260px;
+    height: 100px;
+    border-radius: 33%;
+}
+.bottom-image{
+    height: 150px;
+    border-radius: 5%;
+}
+/* .top-panel{ */
+    /* height: 15vh; */
+/* } */
+.middle-panel{
+    /* height: 60vh; */
+    padding: 20px;
+
+}
+/* .bottom-panel{ */
+    /* height: 25vh; */
+/* } */
+
+.flex-child-panel-01{
+    width: 60%;
+}
+
+.flex-child-panel-02{
+    width: 30%;
+
+}
+.flex-child-panel-03{
+    width: 10%;
+    padding-top: 20px;
+}
+
+.Resources{
+    font-size: 40px;
+    font-weight: 800;
+}
+.input{
+       /* border: 1px solid red; */
+       width: 100%;
+       margin-top: 19px;
+       padding-left: 20px;
+       background-color: white;
+}
+.bottom-top{
+    text-align: center;
+    padding: 20px;
+    width: 50%;
+    margin-left: 25%;
+    background: beige;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+*{
+    font-weight: 400;
+}
