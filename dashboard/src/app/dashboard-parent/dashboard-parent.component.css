@@ -28,9 +28,10 @@
     /* border: 1px solid black; */
     width: 20%;
     height: 95vh;
+    padding-top: 20px;
 }
 .border-class{
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 li{
     list-style: none;
@@ -91,8 +92,12 @@ li{
     background: beige;
     margin-top: 20px;
     margin-bottom: 20px;
-
+    border-radius: 25%;
 }
 *{
     font-weight: 400;
+}
+.right-panel-image{
+    width: 263px;
+    height: 700px;
 }
